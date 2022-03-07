@@ -18,3 +18,7 @@ npm start server
 
 This application was deployed to Heroku, the link is:
 https://tech-blog-uoft.herokuapp.com/
+
+## Screenshot
+
+![App](./public/screenshots/Screenshot%20(26).png?raw=true)
